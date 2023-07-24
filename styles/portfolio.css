@@ -182,7 +182,12 @@ main section {
 /* footer style*/
 footer {
   display: flex;
+  gap: 100px;
   background: #fff8f3;
   margin-top: 100px;
   padding: 30px 200px;
+}
+
+.footer-column {
+  width: 50%;
 }
